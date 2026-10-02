@@ -18,6 +18,8 @@ Le serveur fonctionne sur l’ordinateur du créateur : cet ordinateur doit rest
 
 Sur l’accueil, cliquez sur **Zone** pour choisir **Blackwell**, la cour industrielle, ou **Le Refuge**, un intérieur éclairé avec mobilier ancien, boiseries, parquet, douze fenêtres barricadées et un escalier vers l’aile surélevée. Depuis la version 1.2.1, chaque salle du Refuge offre deux fois sa surface initiale ; l’escalier conserve ses dimensions. Les zombies apparaissent derrière les planches en bois, sur un fond extérieur en briques et pierre. Le créateur du salon choisit la zone commune avant de créer le salon.
 
+La version 1.2.2 rapproche les meubles muraux, oriente les chaises vers les tables et ferme les ouvertures entre les plafonds des salles et de l’escalier. Elle corrige aussi les superpositions de surfaces décoratives qui faisaient scintiller les textures.
+
 Dans Le Refuge, approchez d’une porte et appuyez sur **E** pour l’ouvrir : les cinq portes coûtent 500, 500, 1 000, 1 500 et 2 000 CR. Remettez le générateur en marche pour 4 000 CR. Les armes restent disponibles sans courant ; les compétences et toutes les stations bleues de soutien nécessitent l’électricité. Appuyez sur **E** près de chaque station pour acheter son amélioration, ou maintenez **E** près d’une fenêtre pour réparer ses planches.
 
 Les stations bleues proposent les soins, le réapprovisionnement et la reconstruction de toutes les barricades. La santé peut atteindre **200** et l’endurance **175** dans les deux zones.
