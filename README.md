@@ -14,15 +14,23 @@ Chaque joueur ouvre son jeu, clique sur **Coopération**, puis utilise le serveu
 
 Le serveur fonctionne sur l’ordinateur du créateur : cet ordinateur doit rester allumé et connecté à Internet. L’hôte de la partie garde également son jeu ouvert. Les joueurs utilisent directement leur logiciel `.exe`.
 
+## Choisir une zone
+
+Sur l’accueil, cliquez sur **Zone** pour choisir **Blackwell**, la cour industrielle, ou **Le Refuge**, un intérieur éclairé avec mobilier ancien, boiseries, parquet, douze fenêtres barricadées et un escalier vers l’aile surélevée. Le créateur du salon choisit la zone commune avant de créer le salon.
+
+Dans Le Refuge, approchez d’une porte et appuyez sur **E** pour l’ouvrir : les cinq portes coûtent 500, 500, 1 000, 1 500 et 2 000 CR. Remettez le générateur en marche pour 4 000 CR. Les armes restent disponibles sans courant ; les compétences et toutes les stations bleues de soutien nécessitent l’électricité. Appuyez sur **E** près de chaque station pour acheter son amélioration, ou maintenez **E** près d’une fenêtre pour réparer ses planches.
+
+Les stations bleues proposent les soins, le réapprovisionnement et la reconstruction de toutes les barricades. La santé peut atteindre **200** et l’endurance **175** dans les deux zones.
+
 ## Mises à jour
 
 Le jeu installé recherche les mises à jour au lancement et toutes les quinze minutes. Il les télécharge automatiquement. Revenez au menu et quittez le salon, puis cliquez sur **Installation**, en bas à droite, lorsqu’une nouvelle version est prête. Confirmez l’installation ; le jeu redémarre ensuite.
 
-Pour passer une première fois de la version 1.1.1 à la version 1.1.2, ouvrez **Paramètres → Installer & relancer**. Le nouveau bouton sera présent pour les mises à jour suivantes. Le setup 1.1.1 déjà partagé peut être installé et recevoir cette mise à jour publique.
+Avec la version 1.1.1, ouvrez **Paramètres → Installer & relancer** pour passer à la dernière version. À partir de la version 1.1.2, utilisez le bouton **Installation** en bas à droite. Le setup 1.1.1 déjà partagé peut être installé et recevoir les mises à jour publiques.
 
 ## Soins
 
-Approchez du stand et ouvrez **Soutien** pour acheter une dose médicale à 180 CR. Conservez deux doses maximum, puis utilisez la touche **4** pour restaurer votre santé. À pleine santé, la dose est conservée.
+Dans Blackwell, approchez du stand et ouvrez **Soutien**. Dans Le Refuge, utilisez une station bleue après avoir rétabli l’électricité. Achetez une dose médicale à 180 CR, avec deux doses maximum en réserve, puis utilisez la touche **4** pour restaurer votre santé. À pleine santé, la dose est conservée.
 
 Les anciennes éditions sans canal de mise à jour doivent installer une première fois le nouveau setup. Le fichier autonome **DeadSignal.exe** permet de jouer sans installation ; cette édition demande de remplacer manuellement son exécutable pour une nouvelle version.
 
