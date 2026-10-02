@@ -20,6 +20,8 @@ Sur l’accueil, cliquez sur **Zone** pour choisir **Blackwell**, la cour indust
 
 La version 1.2.2 rapproche les meubles muraux, oriente les chaises vers les tables et ferme les ouvertures entre les plafonds des salles et de l’escalier. Elle corrige aussi les superpositions de surfaces décoratives qui faisaient scintiller les textures.
 
+La version 1.2.3 ajoute des modèles détaillés et texturés pour le générateur, les bornes, les supports d'armes et le mobilier. Les stations sont adossées aux murs et espacées ; le soutien de l'étage le plus proche de l'escalier est retiré. Les deux soutiens restants proposent les mêmes achats. Les renfoncements des fenêtres cachent les morceaux des salles voisines. Les plafonds bloquent les sauts du personnage dans les salles et l'escalier, également en coopération. Les pièces du décor sont regroupées par salle et les textures partagées pour préserver la fluidité.
+
 Dans Le Refuge, approchez d’une porte et appuyez sur **E** pour l’ouvrir : les cinq portes coûtent 500, 500, 1 000, 1 500 et 2 000 CR. Remettez le générateur en marche pour 4 000 CR. Les armes restent disponibles sans courant ; les compétences et toutes les stations bleues de soutien nécessitent l’électricité. Appuyez sur **E** près de chaque station pour acheter son amélioration, ou maintenez **E** près d’une fenêtre pour réparer ses planches.
 
 Les stations bleues proposent les soins, le réapprovisionnement et la reconstruction de toutes les barricades. La santé peut atteindre **200** et l’endurance **175** dans les deux zones.
