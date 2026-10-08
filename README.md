@@ -28,6 +28,8 @@ Les stations bleues proposent les soins, le réapprovisionnement et la reconstru
 
 ## Mises à jour
 
+La version 1.2.4 recentre le mobilier du salon et la station de dégâts, replace les lustres et ajoute des coupures sur un luminaire sur trois. Les rechargements et les bras sont retravaillés, les protections grises sont retirées et le bonus de cadence passe à +10 % par niveau. Désormais, 10 % des rôdeurs normaux portent un couteau et infligent le double de dégâts. Ce couteau possède une lame affûtée en relief, une garde arrondie et un manche galbé avec vis et textures de bois et d'acier usés.
+
 Le jeu installé recherche les mises à jour au lancement et toutes les quinze minutes. Il les télécharge automatiquement. Revenez au menu et quittez le salon, puis cliquez sur **Installation**, en bas à droite, lorsqu’une nouvelle version est prête. Confirmez l’installation ; le jeu redémarre ensuite.
 
 Avec la version 1.1.1, ouvrez **Paramètres → Installer & relancer** pour passer à la dernière version. À partir de la version 1.1.2, utilisez le bouton **Installation** en bas à droite. Le setup 1.1.1 déjà partagé peut être installé et recevoir les mises à jour publiques.
