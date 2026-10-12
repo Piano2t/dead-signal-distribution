@@ -28,6 +28,8 @@ Les stations bleues proposent les soins, le réapprovisionnement et la reconstru
 
 ## Mises à jour
 
+La version 1.2.6 empêche la lumière des lustres, de la lampe du joueur et des tirs de traverser les murs, les plafonds et les portes fermées du Refuge. La lumière passe par les portes ouvertes. Cette correction fonctionne avec les trois niveaux de qualité, en conservant les clignotements et les longues coupures des pièces sombres.
+
 La version 1.2.5 ralentit et adoucit le rechargement du pistolet M1911. Les impacts sur les zombies produisent du sang rouge texturé et la croix des tirs à la tête devient rouge. Dans Le Refuge, une pièce sur trois reste dans la pénombre avec de longues coupures et de courts retours de lumière ; les autres gardent leur éclairage.
 
 La version 1.2.4 recentre le mobilier du salon et la station de dégâts, replace les lustres et ajoute des coupures sur un luminaire sur trois. Les rechargements et les bras sont retravaillés, les protections grises sont retirées et le bonus de cadence passe à +10 % par niveau. Désormais, 10 % des rôdeurs normaux portent un couteau et infligent le double de dégâts. Ce couteau possède une lame affûtée en relief, une garde arrondie et un manche galbé avec vis et textures de bois et d'acier usés.
