@@ -28,6 +28,8 @@ Les stations bleues proposent les soins, le réapprovisionnement et la reconstru
 
 ## Mises à jour
 
+La version 1.2.7 : les six lampes du Refuge ont une source placée dans leur ampoule, liée au modèle. Les abat-jour en verre opalin diffusent vers le plafond, les murs et le sol, avec une baisse de l'intensité selon le carré de la distance. La suspension, la puissance et l'éclat du verre ont été rééquilibrés pour rendre la lampe visible comme origine de la lumière. La diffusion supprime les traits noirs et les anneaux des petites armatures ; les murs, les plafonds et les portes fermées bloquent toujours la lumière. Les longues coupures et les clignotements sont synchronisés avec l'ampoule et son abat-jour. Les six sources et leurs ombres fixes en cache conservent le budget de rendu précédent.
+
 La version 1.2.6 empêche la lumière des lustres, de la lampe du joueur et des tirs de traverser les murs, les plafonds et les portes fermées du Refuge. La lumière passe par les portes ouvertes. Cette correction fonctionne avec les trois niveaux de qualité, en conservant les clignotements et les longues coupures des pièces sombres.
 
 La version 1.2.5 ralentit et adoucit le rechargement du pistolet M1911. Les impacts sur les zombies produisent du sang rouge texturé et la croix des tirs à la tête devient rouge. Dans Le Refuge, une pièce sur trois reste dans la pénombre avec de longues coupures et de courts retours de lumière ; les autres gardent leur éclairage.
