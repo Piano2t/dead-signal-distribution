@@ -28,9 +28,11 @@ Les stations bleues proposent les soins, le réapprovisionnement et la reconstru
 
 ## Mises à jour
 
+La version **0.2.9** corrige le faux avertissement de souris à la touche Échap. Échap ouvre la pause ; cliquez sur **Reprendre la partie** pour revenir en jeu. Les captures de souris annulées ou temporairement refusées ne déclenchent plus ce message. Téléchargez **DeadSignal-Setup-0.2.9.exe**, ou utilisez le bouton **Installation** du jeu après son téléchargement automatique.
+
 La version **0.2.8** ouvre les douze accès du Refuge jusqu’au sol et les protège par **six planches** réparables. Les soins rendent **100 PV maximum** par dose, les pas suivent le sol (bois, carrelage, tapis), et Le Refuge dispose d’une nouvelle musique originale. La mini-carte ne révèle plus les positions des zombies. Le bouton « Commandes & survie » est retiré du menu de pause.
 
-La numérotation publique reprend à **0.2.8**, puis **0.2.9**, **0.2.10**, etc. Téléchargez **DeadSignal-Setup-0.2.8.exe**. Les anciennes installations peuvent afficher le numéro technique **1.2.9** pour ce premier téléchargement ; il permet de conserver la compatibilité de leur mise à jour. Le jeu affiche ensuite **0.2.8**.
+La numérotation publique reprend à **0.2.8**, puis **0.2.9**, **0.2.10**, etc. Le setup de cette ancienne version était **DeadSignal-Setup-0.2.8.exe**. Les anciennes installations peuvent afficher le numéro technique **1.2.9** pour ce premier téléchargement ; il permet de conserver la compatibilité de leur mise à jour. Le jeu affiche ensuite **0.2.8**.
 
 La version 1.2.7 : les six lampes du Refuge ont une source placée dans leur ampoule, liée au modèle. Les abat-jour en verre opalin diffusent vers le plafond, les murs et le sol, avec une baisse de l'intensité selon le carré de la distance. La suspension, la puissance et l'éclat du verre ont été rééquilibrés pour rendre la lampe visible comme origine de la lumière. La diffusion supprime les traits noirs et les anneaux des petites armatures ; les murs, les plafonds et les portes fermées bloquent toujours la lumière. Les longues coupures et les clignotements sont synchronisés avec l'ampoule et son abat-jour. Les six sources et leurs ombres fixes en cache conservent le budget de rendu précédent.
 
