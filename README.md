@@ -28,6 +28,10 @@ Les stations bleues proposent les soins, le réapprovisionnement et la reconstru
 
 ## Mises à jour
 
+La version **0.2.8** ouvre les douze accès du Refuge jusqu’au sol et les protège par **six planches** réparables. Les soins rendent **100 PV maximum** par dose, les pas suivent le sol (bois, carrelage, tapis), et Le Refuge dispose d’une nouvelle musique originale. La mini-carte ne révèle plus les positions des zombies. Le bouton « Commandes & survie » est retiré du menu de pause.
+
+La numérotation publique reprend à **0.2.8**, puis **0.2.9**, **0.2.10**, etc. Téléchargez **DeadSignal-Setup-0.2.8.exe**. Les anciennes installations peuvent afficher le numéro technique **1.2.9** pour ce premier téléchargement ; il permet de conserver la compatibilité de leur mise à jour. Le jeu affiche ensuite **0.2.8**.
+
 La version 1.2.7 : les six lampes du Refuge ont une source placée dans leur ampoule, liée au modèle. Les abat-jour en verre opalin diffusent vers le plafond, les murs et le sol, avec une baisse de l'intensité selon le carré de la distance. La suspension, la puissance et l'éclat du verre ont été rééquilibrés pour rendre la lampe visible comme origine de la lumière. La diffusion supprime les traits noirs et les anneaux des petites armatures ; les murs, les plafonds et les portes fermées bloquent toujours la lumière. Les longues coupures et les clignotements sont synchronisés avec l'ampoule et son abat-jour. Les six sources et leurs ombres fixes en cache conservent le budget de rendu précédent.
 
 La version 1.2.6 empêche la lumière des lustres, de la lampe du joueur et des tirs de traverser les murs, les plafonds et les portes fermées du Refuge. La lumière passe par les portes ouvertes. Cette correction fonctionne avec les trois niveaux de qualité, en conservant les clignotements et les longues coupures des pièces sombres.
@@ -42,7 +46,7 @@ Avec la version 1.1.1, ouvrez **Paramètres → Installer & relancer** pour pass
 
 ## Soins
 
-Dans Blackwell, approchez du stand et ouvrez **Soutien**. Dans Le Refuge, utilisez une station bleue après avoir rétabli l’électricité. Achetez une dose médicale à 180 CR, avec deux doses maximum en réserve, puis utilisez la touche **4** pour restaurer votre santé. À pleine santé, la dose est conservée.
+Dans Blackwell, approchez du stand et ouvrez **Soutien**. Dans Le Refuge, utilisez une station bleue après avoir rétabli l’électricité. Achetez une dose médicale à 180 CR, avec deux doses maximum en réserve, puis utilisez la touche **4** pour récupérer **100 PV au maximum**, sans dépasser votre santé maximale. À pleine santé, la dose est conservée.
 
 Les anciennes éditions sans canal de mise à jour doivent installer une première fois le nouveau setup. Le fichier autonome **DeadSignal.exe** permet de jouer sans installation ; cette édition demande de remplacer manuellement son exécutable pour une nouvelle version.
 
